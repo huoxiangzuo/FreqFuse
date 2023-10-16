@@ -1,2 +1,2 @@
-# Meta-HiFuse
-Bi-modal Multi-task Hierarchical Feature Fusion for Esophagus Cancer Staging and Differentiation Classification
+# BiStemFuse
+BiStemFuse：Bi-modal Stem Feature Fusion Network for Esophagus Cancer Staging and Differentiation Classification
