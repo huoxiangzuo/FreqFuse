@@ -1,2 +1,2 @@
-# BiStemFuse
-BiStemFuse：Bi-modal Stem Feature Fusion Network for Esophagus Cancer Staging and Differentiation Classification
+# FreqFuse
+FreqFuse: Multi-modal Multi-scale Frequency Feature Fusion for Multi-label Skin Lesion Classification
